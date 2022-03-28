@@ -23,4 +23,3 @@ A beautiful, dark-mode enabled weather app. You can check the weather for the cu
 * Core Location and how to get the current location from the phone GPS
 
 
-
